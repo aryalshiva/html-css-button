@@ -1,0 +1,45 @@
+.first_button{
+    background-color:rgba(12, 35, 210, 0.672);
+    color:whitesmoke;
+    border-radius: 10px;
+    border-color:rgba(12, 35, 210, 0.672);
+    padding-bottom: 3px; 
+  
+}
+.first_button:hover{
+    background-color: bisque;
+    color:black;
+    box-shadow:5px 5px 10px rgba(43, 43, 53, 0.523);
+    transition:background-color 1.1s ,box-shadow 1s;
+
+}
+
+.second_button{
+    background-color:rgba(5, 41, 200, 0.59);
+    color:wheat;
+    border-radius:40%;
+    border:2px solid rgba(180, 87, 226, 0.946);
+    
+}
+.second_button:hover{
+    background-color: aqua;
+    color:white;  
+    box-shadow:5px 5px 5px black ;
+    transition:box-shadow 1.5s,background-color 1.5s;   
+}
+
+.third_button{
+    background-color:rgba(0, 0, 0, 0.826);
+    color:rgba(255, 255, 255, 0.837);
+    border-radius: 10px;
+    border-color:rgba(166, 186, 80, 0.672);
+    padding-bottom: 3px; 
+
+}
+.third_button:hover{
+    background-color: rgb(191, 213, 245);
+    color:rgb(15, 74, 4);
+    box-shadow:5px 5px 10px rgba(11, 11, 11, 0.75);
+    transition:background-color 1.5s ,box-shadow 1.5s;
+
+}
